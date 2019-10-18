@@ -4,4 +4,6 @@ This repo contains the solutions to the exercises proposed in the course "Statis
 
 - *bci05.csv*: This is a dataset of the Barrio-Colorado Island, which was used in some of the homeworks.
 
-- *notebooks*: This folder contains the jupyter notebooks of the 3 exercises.
+- *notebooks*: This folder contains the jupyter notebooks of the exercises.
+
+- *reports*: This folder contains the reports for the exercises.
